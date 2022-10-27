@@ -30,7 +30,7 @@ public class GyroTurn extends CommandBase {
     }
     @Override
     public void initialize(){
-//cheese
+//chee
       m_subsystem.zeroHeading();
     }
     @Override
